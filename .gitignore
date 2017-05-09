@@ -1,0 +1,5 @@
+.settings/
+.classpath
+.project
+ocsf-2.31.jar
+/bin/
